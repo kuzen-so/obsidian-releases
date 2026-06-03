@@ -30448,5 +30448,12 @@
     "author": "renmu",
     "description": "This plugin has not been manually reviewed by Obsidian staff. This plugin uploads images from your clipboard by PicGo",
     "repo": "stackbreakerx/obsidian-image-auto-upload-plugin"
+  },
+  {
+    "id": "calendar-pro",
+    "name": "Calendar Pro",
+    "author": "Kuzen",
+    "description": "A calendar view combined with a heatmap for diary and weekly note management.",
+    "repo": "kuzen-so/calendar-pro"
   }
 ]
